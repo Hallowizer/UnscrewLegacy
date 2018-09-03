@@ -1,0 +1,2 @@
+public-f org.bukkit.plugin.java.PluginClassLoader
+public org.bukkit.plugin.java.PluginClassLoader findClass(Ljava/lang/String;Z)Ljava/lang/Class;

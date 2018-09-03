@@ -1,0 +1,5 @@
+name: Unscrew
+main: com.hallowizer.unscrew.coremod.plugin.UnscrewPlugin
+version: 1.0
+author: Hallowizer
+description: Unscrew is a server wrapper that allows plugin developers to modify the server bytecode.

@@ -1,2 +1,2 @@
 # Unscrew
-"Unscrew the bolts in your Spigot, and change the water and minerals!"
+Unscrew is a wrapper for the Spigot server that allows plugin developers to modify the server bytecode using the ASM library.
